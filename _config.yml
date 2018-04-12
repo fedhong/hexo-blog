@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 洪亮的记事本
-subtitle:
-description:
-author: hongliang
+title: 点点滴滴
+subtitle: 点点技术、滴滴生活
+description: 点点滴滴，常用于表示这种很少的事物的不断积累，强调渐进的过程，具有量变性。
+author: 洪亮
 language: zh-CN
-timezone:
+timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -22,6 +22,7 @@ source_dir: source
 public_dir: public
 tag_dir: tags
 archive_dir: archives
+about_dir: archives
 category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
