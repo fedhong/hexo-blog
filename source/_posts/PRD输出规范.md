@@ -1,7 +1,8 @@
 ---
 title: PRD输出规范
 date: 2019-03-04 11:37:07
-tags: [PM,PRD]
+tags: [产品,PRD]
+categories: [总结]
 ---
 
 如何做一个professional的PM？在你设计PRD的时候，是否考虑周全？都应该考虑到哪些因素？

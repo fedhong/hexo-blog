@@ -1,7 +1,8 @@
 ---
 title: CaseStudy的意义及规范
 date: 2018-07-05 15:15:21
-tags: casestudy
+tags: 
+categories: [总结]
 ---
 CaseStudy，让人比较讨厌的一个词，因为如果它出现了，那就是出事故了，接下来就会面临定级，影响到KPI，哈哈。
 
